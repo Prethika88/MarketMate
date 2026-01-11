@@ -46,6 +46,7 @@ npm start
 
 
 4.Setup Environment Variables
+
 Create a .env file in the server directory and configure the required environment variables.
 
 
@@ -54,10 +55,10 @@ Create a .env file in the server directory and configure the required environmen
 - Frontend: http://localhost:5173
 
 - Backend: http://localhost:4000
+  
 
 
 **License**
-
 
 This project is licensed under the MIT License
 
