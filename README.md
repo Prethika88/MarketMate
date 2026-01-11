@@ -20,15 +20,49 @@ MarketMate is a full-stack online grocery shopping platform designed to deliver 
 - Scalable backend architecture for smooth operations.
 
 
-## **Admin Capabilities**
-- Add, update, and delete products. 
-- Monitor and manage customer orders.
-- Real-time data synchronization with the database.
+## **Installation**
+
+### 1.Clone the Repository
+
+git clone https://github.com/Prethika88/MarketMate.git
+
+cd MarketMate
+
+### 2.Frontend Setup
+
+cd client
+
+npm install
+
+npm run dev
+
+### 3.Backend Setup
+
+cd server
+
+npm install
+
+npm start
 
 
-## **Security & Payments**
-- Google OAuth for secure authentication.
-- Stripe Webhooks for reliable payment confirmation and order processing.
+### 4. Setup Environment Variables
+Create a .env file in the server directory and configure the required environment variables.
+
+
+### 5. Run the application
+
+- Frontend: http://localhost:5173
+
+- Backend: http://localhost:4000
+
+
+## **License**
+
+
+This project is licensed under the MIT License
+
+
+
 
 
 
