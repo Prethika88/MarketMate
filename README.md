@@ -22,13 +22,13 @@ MarketMate is a full-stack online grocery shopping platform designed to deliver 
 
 ## **Installation**
 
-### 1.Clone the Repository
+1.Clone the Repository
 
 git clone https://github.com/Prethika88/MarketMate.git
 
 cd MarketMate
 
-### 2.Frontend Setup
+2.Frontend Setup
 
 cd client
 
@@ -36,7 +36,7 @@ npm install
 
 npm run dev
 
-### 3.Backend Setup
+3.Backend Setup
 
 cd server
 
@@ -45,11 +45,11 @@ npm install
 npm start
 
 
-### 4. Setup Environment Variables
+4. Setup Environment Variables
 Create a .env file in the server directory and configure the required environment variables.
 
 
-### 5. Run the application
+5. Run the application
 
 - Frontend: http://localhost:5173
 
