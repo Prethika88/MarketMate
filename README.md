@@ -45,18 +45,18 @@ npm install
 npm start
 
 
-4. Setup Environment Variables
+4.Setup Environment Variables
 Create a .env file in the server directory and configure the required environment variables.
 
 
-5. Run the application
+5.Run the application
 
 - Frontend: http://localhost:5173
 
 - Backend: http://localhost:4000
 
 
-## **License**
+**License**
 
 
 This project is licensed under the MIT License
