@@ -31,11 +31,6 @@ MarketMate is a full-stack online grocery shopping platform designed to deliver 
 - Stripe Webhooks for reliable payment confirmation and order processing.
 
 
-## **Installation**
-
-### 1. Clone the repository
-git clone https://github.com/Prethika88/MarketMate.git
-cd MarketMate
 
 
 
